@@ -43,7 +43,7 @@ pip install -r requirements.txt
 # CREATE DATABASE finance_tracker;
 
 # 4. Set up environment
-cp .env.example .env
+venv\Scripts\activate
 # Edit .env with your PostgreSQL credentials
 
 # 5. Start the API server
