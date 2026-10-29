@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/analytics/page": "app/analytics/page.js",
+  "/accounts/page": "app/accounts/page.js",
+  "/api/accounts/route": "app/api/accounts/route.js",
+  "/api/analytics/route": "app/api/analytics/route.js",
+  "/api/budgets/route": "app/api/budgets/route.js",
+  "/api/categories/route": "app/api/categories/route.js",
+  "/api/db-status/route": "app/api/db-status/route.js",
+  "/api/recurring/route": "app/api/recurring/route.js",
+  "/api/transactions/[id]/route": "app/api/transactions/[id]/route.js",
+  "/api/transactions/bulk/route": "app/api/transactions/bulk/route.js",
+  "/api/transactions/route": "app/api/transactions/route.js",
+  "/budgets/page": "app/budgets/page.js",
+  "/page": "app/page.js",
+  "/recurring/page": "app/recurring/page.js",
+  "/transactions/page": "app/transactions/page.js"
+}
